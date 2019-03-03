@@ -1,6 +1,6 @@
 Ejercicio práctico clase 
 
-E1 Diseñe una aplicación para obtener datos de sitios web en internet a través de
+E1: Diseñe una aplicación para obtener datos de sitios web en internet a través de
 peticiones de tipo "GET". El sitio web envía una respuesta luego de que se le hace una
 petición GET, de dicha respuesta se debe extraer cierta información detallada del sitio
 tal como: el servidor en el que está alojado el sitio, el tipo de codificación del
