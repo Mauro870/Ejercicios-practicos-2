@@ -1,4 +1,4 @@
-Ejercicios-practicos-2
+# Ejercicio-practico-2
 
 E1: Diseñe una aplicación para obtener datos de sitios web en internet a través de
 peticiones de tipo "GET". El sitio web envía una respuesta luego de que se le hace una
